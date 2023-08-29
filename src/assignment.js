@@ -40,8 +40,8 @@ function countEvenNumbersWithin(destination) {
     let count = 0;
     let arrayOfEvenNumbers = [];
 
-    for(let i = 1; <= destination; i++) {
-        if(i % 2 === 0) {
+    for (let i = 1; <= destination; i++) {
+        if (i % 2 === 0) {
             sum += 1;
             count += 1;
             arrayOfEvenNumbers.push(i)
