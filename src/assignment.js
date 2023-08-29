@@ -36,8 +36,6 @@ function sumOfNumbersTo(destination) {
  * @returns the object containing count, sum, arrayOfEvenNumbers from 1 to destination
  */
 function countEvenNumbersWithin(destination) {
-    // Write your code here
-    // get the number from 1 to destination
     let sum = 0;
     let count = 0;
     let arrayOfEvenNumbers = [];
